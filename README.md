@@ -1,5 +1,4 @@
 # ohnooo
 Repo for teaching merge conflicts
 
-
-ttotaaaaaaalyy different!
+This is really a different file.
