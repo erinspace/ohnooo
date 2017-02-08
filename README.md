@@ -1,2 +1,2 @@
 # ohnooo
-Repo for teaching merge conflicts!!!!
+Repo for teaching merge conflicts
